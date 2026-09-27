@@ -1,0 +1,37 @@
+# ==============================
+# Frontend - React / Vite
+# ==============================
+frontend/node_modules/
+frontend/dist/
+
+# ==============================
+# Python - ML Service
+# ==============================
+ml-service/venv/
+ml-service/_pycache_/
+ml-service/*/.pyc
+
+# ==============================
+# Java - Spring Boot
+# ==============================
+backend/target/
+
+# ==============================
+# IDE
+# ==============================
+.vscode/
+.classpath
+.project
+.settings/
+
+# ==============================
+# Environment / Secrets
+# ==============================
+.env
+*.env
+
+# ==============================
+# OS
+# ==============================
+.DS_Store
+Thumbs.db
